@@ -1,3 +1,4 @@
+
 function binarySearch(list, element) {
   let indexstart = 0; //start of the index
   let indexend = list.length - 1; //end of the index 
